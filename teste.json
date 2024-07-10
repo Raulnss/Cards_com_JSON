@@ -1,0 +1,122 @@
+[
+    {
+        "img": "img/john_wick.jpeg",
+        "nome": "John Wick",
+        "idade": "16 anos",
+        "hora": "16:45"
+    },
+    {
+        "img": "img/devoutaparaofuturo.jpeg",
+        "nome": "De Volta para o Futuro",
+        "idade": "12 anos",
+        "hora": "em 1985"
+    },
+    {
+        "img": "img/mercenarios.jpeg",
+        "nome": "Os Mercenários",
+        "idade": "12 anos",
+        "hora": "em 2010"
+    },
+    {
+        "img": "img/exterminador.jpeg",
+        "nome": "O Exterminador do Futuro",
+        "idade": "14 anos",
+        "hora": "em 1984"
+    },
+    {
+        "img": "img/predador.jpeg",
+        "nome": "O Predador",
+        "idade": "16 anos",
+        "hora": "em 1987"
+    },
+    {
+        "img": "img/rambo.jpeg",
+        "nome": "Rambo - Programado para Matar",
+        "idade": "14 anos",
+        "hora": "em 1982"
+    },
+    {
+        "img": "img/badboys.jpeg",
+        "nome": "Bad Boys",
+        "idade": "16 anos",
+        "hora": "qualquer hora"
+    },
+    {
+        "img": "img/deadpool.jpeg",
+        "nome": "Deadpool",
+        "idade": "18 anos",
+        "hora": "sinceramente não sei"
+    },
+    {
+        "img": "img/jumangi.jpeg",
+        "nome": "Jumanji",
+        "idade": "10 anos",
+        "hora": "qualquer hora"
+    },
+    {
+        "img": "img/xmen.jpeg",
+        "nome": "X-Men - O Filme",
+        "idade": "12 anos",
+        "hora": "sempre"
+    },
+    {
+        "img": "img/elizium.jpeg",
+        "nome": "Elysium",
+        "idade": "16 anos",
+        "hora": "sempre"
+    },
+    {
+        "img": "img/marte.jpeg",
+        "nome": "Perdido em Marte",
+        "idade": "12 anos",
+        "hora": "sempre"
+    },
+    {
+        "img": "img/300.jpeg",
+        "nome": "300",
+        "idade": "16 anos",
+        "hora": "de vez em quando"
+    },
+    {
+        "img": "img/candidatohonesto.jpeg",
+        "nome": "O Candidato Honesto",
+        "idade": "12 anos",
+        "hora": "raramente"
+    },
+    {
+        "img": "img/amanha.jpeg",
+        "nome": "No Limite do Amanhã",
+        "idade": "14 anos",
+        "hora": "de vez em quando"
+    },
+    {
+        "img": "img/preco.jpeg",
+        "nome": "O Preço do Amanhã",
+        "idade": "12 anos",
+        "hora": "sempre"
+    },
+    {
+        "img": "img/ferro.jpeg",
+        "nome": "Homem de Ferro",
+        "idade": "12 anos",
+        "hora": "depende"
+    },
+    {
+        "img": "img/ryan.jpeg",
+        "nome": "O Resgate do Soldado Ryan",
+        "idade": "14 anos",
+        "hora": "raro"
+    },
+    {
+        "img": "img/miranha.jpeg",
+        "nome": "Homem-Aranha",
+        "idade": "livre",
+        "hora": "sempre"
+    },
+    {
+        "img": "img/carros.jpeg",
+        "nome": "Carros",
+        "idade": "livre",
+        "hora": "de vez em quando"
+    }
+]
